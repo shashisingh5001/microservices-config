@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+loans:
+  message: "Welcome to EazyBank accounts related Loan QA APIs"
+  contactDetails:
+    name: "Ron Head - QA Lead"
+    email: "ronhead@eazybank.com"
+  onCallSupport:
+    - "(000) 777-5555"
+    - "(000) 888-4444"

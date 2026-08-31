@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related lProd APIs"
+  contactDetails:
+    name: "Rain Depack - Product Owner"
+    email: "raindepack@eazybank.com"
+  onCallSupport:
+    - "(666) 898-1234"
+    - "(666) 989-1345"

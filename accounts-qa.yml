@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs"
+  contactDetails:
+    name: "Ron Head - QA Lead"
+    email: "ronhead@eazybank.com"
+  onCallSupport:
+    - "(111) 222-1234"
+    - "(111) 222-1345"
