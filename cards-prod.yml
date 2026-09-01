@@ -3,10 +3,10 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank accounts related Card Prod APIs"
+  message: "Welcome to EazyBank accounts related Card Production APIs"
   contactDetails:
-    name: "Rain Depack - Product Owner"
-    email: "raindepack@eazybank.com"
+    name: "Nike pace - Product Owner"
+    email: "nikepace@eazybank.com"
   onCallSupport:
     - "(346) 668-4444"
     - "(346) 669-5555"
