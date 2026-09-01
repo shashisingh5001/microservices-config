@@ -2,9 +2,9 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related lProd APIs"
+  message: "Welcome to EazyBank accounts related Production APIs"
   contactDetails:
-    name: "Rain Depack - Product Owner"
+    name: "Mike nolen - Product Owner"
     email: "{cipher}3391fc9158b70695bdb6c346c9cc22bf24433f0d7e22785f9fb84a138e9ce7c9d0462e3124e457c823f43215ff1f8bd4"
   onCallSupport:
     - "(666) 898-1234"
