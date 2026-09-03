@@ -3,7 +3,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to EazyBank Card webhook  APIs"
+  message: "Welcome to EazyBank Card webhook API"
   contactDetails:
     name: "Nike pace - Product Owner"
     email: "nikepace@eazybank.com"
